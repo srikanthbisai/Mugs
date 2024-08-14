@@ -65,7 +65,7 @@ const Projects = () => {
           <Image
             src="/Design2.png"
             alt="Business Landing Page Design"
-            width={248}
+            width={247}
             height={400}
             className="absolute top-28 left-10 z-10"
           />
@@ -84,14 +84,14 @@ const Projects = () => {
           <Image
             src="/Design32.png"
             alt="Business Landing Page Design"
-            width={249}
+            width={247}
             height={400}
             className="absolute top-28 left-10 z-10"
           />
             
         </div>
       </div>
-      <div className="bottomContainer flex hidden lg:flex w-3/4 justify-between space-x-32 mt-10">
+      <div className="bottomContainer flex hidden lg:flex w-3/4 mt-10">
         <div className="1 w-1/3 space-y-4">
           <h1 className="text-orange-500 text-xl">Web Design</h1>
           <p className="font-bold text-xl">Aircalling Landing page Desgin</p>

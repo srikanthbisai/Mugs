@@ -11,7 +11,7 @@ const Testimonials = () => {
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum quis, u
         desporio nooernn!
       </p>
-      <p className="mt-2 hidden text-xl">
+      <p className="mt-2 hidden lg:flex text-xl">
         Lorem, ipsum dolor sit amet consectetur adipisicing elit.{" "}
       </p>
 

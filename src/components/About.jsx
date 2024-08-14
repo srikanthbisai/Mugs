@@ -19,7 +19,7 @@ const AboutMe = () => {
 
       <div className="aboutInfo_container text-white lg:w-1/2 mt-20 flex justify-center items-center space-y-12 font-bold sm:flex-col sm:justify-center sm:items-center">
         <p className="text-white font-bold text-5xl">About Me</p>
-        <p className="mt-5 sm:text-center lg:text-xl">
+        <p className="mt-5 sm:text-center lg:text-left lg:font-normal lg:text-xl">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam
           minima iste placeat aliquid, quisquam praesentium totam asperiores
           expedita beatae soluta
